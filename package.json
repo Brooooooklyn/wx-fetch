@@ -1,0 +1,25 @@
+{
+  "name": "wx-fetch",
+  "version": "0.0.1",
+  "description": "微信小应用的 fetch polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brooooooklyn/wx-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "微信",
+    "微信小应用",
+    "wechat"
+  ],
+  "author": "lynweklm@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brooooooklyn/wx-fetch/issues"
+  },
+  "homepage": "https://github.com/Brooooooklyn/wx-fetch#readme"
+}
